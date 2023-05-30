@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(241, 195, 166);
+}
+.Header{
+    min-height: 10vh;
+    height: 100%;
+    background-color: aqua;
+    margin: 2% 2% 2% 2%;
+}
